@@ -81,7 +81,8 @@ q_n =
 (-1)^k & \text{if } n = \frac{3k^2 \pm k}{2} \text{ for integer } k \\
 0 & \text{otherwise}
 \end{cases}
-'''](https://latex.codecogs.com/png.latex?\color{white}{q_n%20=\begin{cases}(-1)^k%20&%20\text{if%20}%20n%20=%20\frac{(3k%20\pm%201)k}{2}%20\text{%20for%20integer%20}%20k%20\\0%20&%20\text{otherwise}\end{cases}})
+'''](https://latex.codecogs.com/png.latex?\color{white}%20q_n%20=%20%5Cbegin%7Bcases%7D%20(-1)%5Ek%20%26%20%5Ctext%7Bif%20%7D%20n%20=%20%5Cfrac%7B3k%5E2%20%5Cpm%20k%7D%7B2%7D%20%5Ctext%7B%20for%20integer%20%7D%20k%20%5C%5C%200%20%26%20%5Ctext%7Botherwise%7D%20%5Cend%7Bcases%7D)
+
 
 Meaning that among the numbers:
 
