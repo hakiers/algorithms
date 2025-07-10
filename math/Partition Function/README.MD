@@ -126,9 +126,7 @@ By multiplying and comparing coefficients:
 1 & \text{if } n = 0 \\
 0 & \text{if } n > 0
 \end{cases}
-'''](https://latex.codecogs.com/png.latex?\color{white}{\sum_{k=0}^{n}%20p(k)%20\cdot%20q_{n-k}%20=\begin{cases}1%20&%20\text{if%20}%20n%20=%200%20\\0%20&%20\text{if%20}%20n%20>%200\end{cases}})
-
-![test](https://latex.codecogs.com/png.latex?\color{white}%20%5Csum_%7Bk%3D0%7D%5E%7Bn%7D%20p(k)%20%5Ccdot%20q_%7Bn-k%7D%20%3D%20%5Cbegin%7Bcases%7D%201%20%26%20%5Ctext%7Bif%20%7D%20n%20%3D%200%20%5C%5C%200%20%26%20%5Ctext%7Bif%20%7D%20n%20%3E%200%20%5Cend%7Bcases%7D)
+'''](https://latex.codecogs.com/png.latex?\color{white}%20%5Csum_%7Bk%3D0%7D%5E%7Bn%7D%20p(k)%20%5Ccdot%20q_%7Bn-k%7D%20%3D%20%5Cbegin%7Bcases%7D%201%20%26%20%5Ctext%7Bif%20%7D%20n%20%3D%200%20%5C%5C%200%20%26%20%5Ctext%7Bif%20%7D%20n%20%3E%200%20%5Cend%7Bcases%7D)
 
 So for `n > 0`:
 
