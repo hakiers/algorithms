@@ -1,5 +1,6 @@
-#include "partition.h"
+#include "partition.hpp"
 #include <iostream>
+#include <chrono>
 using namespace std;
 
 int main() {
@@ -7,7 +8,7 @@ int main() {
 
     // benchmark
     auto start = std::chrono::high_resolution_clock::now();
-    long long res1 = p(n);
+    long long res1 = partition::p(n);
     auto end = std::chrono::high_resolution_clock::now();
     auto time1 = std::chrono::duration_cast<std::chrono::milliseconds>(end - start).count();
     std::cout << "Time: " << time1 << " ms\n";

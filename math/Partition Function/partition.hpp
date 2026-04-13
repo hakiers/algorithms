@@ -1,5 +1,8 @@
-#include "partition.h"
+#ifndef PARTITION_HPP
+#define PARTITION_HPP
 #include <vector>
+
+namespace partition{
 
 long long p(int n) {
     std::vector<long long> dp(n+1, 0);
@@ -22,5 +25,5 @@ long long p(int n) {
     return dp[n];
 }
 
-
-
+}
+#endif
